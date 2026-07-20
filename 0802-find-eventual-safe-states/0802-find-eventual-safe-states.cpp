@@ -1,13 +1,17 @@
 class Solution {
+    //SC- O(3N)
+    //TC - O(V+E)
     private:
         bool dfsCheck(int node,vector<vector<int>>& adj,vector<int>& vis,vector<int>& pathVis,vector<int>& check){
             vis[node]=1;
             pathVis[node]=1;
-
+            check[node]=0;
             for(auto it: adj[node]){
                 if(vis[it]==0){
-                    if(dfsCheck(it,adj,vis,pathVis,check)==true) return true;
-                }else if(pathVis[it]==1) return true;
+                    if(dfsCheck(it,adj,vis,pathVis,check)==true){check[node]=0;return true;}
+                }else if(pathVis[it]==1){check[node]=0;
+                        return true;
+                    }
             }
 
             pathVis[node]=0;
