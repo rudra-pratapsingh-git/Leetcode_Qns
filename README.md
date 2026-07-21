@@ -28,4 +28,16 @@
 | ------- |
 | [0210-course-schedule-ii](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0802-find-eventual-safe-states) |
+## Array
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0073-set-matrix-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
