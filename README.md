@@ -10,6 +10,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0127-word-ladder) |
 | [0210-course-schedule-ii](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0802-find-eventual-safe-states) |
@@ -36,8 +37,13 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0127-word-ladder) |
 ## Matrix
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0073-set-matrix-zeroes) |
+## String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
