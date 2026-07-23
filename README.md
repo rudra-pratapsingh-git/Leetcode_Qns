@@ -10,6 +10,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0127-word-ladder) |
 | [0210-course-schedule-ii](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0785-is-graph-bipartite) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0073-set-matrix-zeroes) |
+| [0126-word-ladder-ii](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0127-word-ladder) |
 ## Matrix
 |  |
@@ -45,5 +47,10 @@
 ## String
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0127-word-ladder) |
+## Backtracking
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
