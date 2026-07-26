@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0073-set-matrix-zeroes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,4 +54,12 @@
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0126-word-ladder-ii) |
+## Math
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0628-maximum-product-of-three-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
