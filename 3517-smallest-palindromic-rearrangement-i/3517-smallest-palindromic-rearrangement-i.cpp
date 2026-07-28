@@ -1,11 +1,12 @@
 class Solution {
 public:
     string smallestPalindrome(string s) {
-        // int n = s.size();
-        // sort(s.begin(),s.begin()+n/2);
-        // sort(s.begin()+n/2,s.end(),greater<char>());
-        // //reverse(s.begin()+n/2,s.end());
-        // return s;
+        int n = s.size();
+        int start = (n+1)/2;
+        sort(s.begin(),s.begin()+n/2);
+        sort(s.begin()+start,s.end(),greater<char>());
+        //reverse(s.begin()+n/2,s.end());
+        return s;
 
         vector<int>freq(26,0);
         string left;
