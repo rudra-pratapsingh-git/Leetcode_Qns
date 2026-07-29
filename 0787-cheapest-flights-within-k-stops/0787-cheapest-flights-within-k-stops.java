@@ -15,6 +15,7 @@ class Tuple{
         this.third = third;
     }
 }
+//TC - O(EDGES) = O(Flights.length)
 
 
 class Solution {
@@ -40,6 +41,8 @@ class Solution {
             int stops = it.first;
             int node = it.second;
             int cost = it.third;
+
+            if(stops>k) continue;
 
             for(Pair iter:adj.get(node)){
                 int adjNode = iter.first;
