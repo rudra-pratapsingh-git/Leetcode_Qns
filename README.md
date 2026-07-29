@@ -6,6 +6,7 @@
 | ------- |
 | [0210-course-schedule-ii](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0802-find-eventual-safe-states) |
 | [1631-path-with-minimum-effort](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
@@ -15,6 +16,7 @@
 | [0127-word-ladder](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0127-word-ladder) |
 | [0210-course-schedule-ii](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0802-find-eventual-safe-states) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1631-path-with-minimum-effort) |
@@ -28,6 +30,7 @@
 | ------- |
 | [0210-course-schedule-ii](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
@@ -77,6 +80,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search
@@ -87,4 +91,12 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0787-cheapest-flights-within-k-stops) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
