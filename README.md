@@ -77,6 +77,7 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0628-maximum-product-of-three-numbers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sorting
 |  |
 | ------- |
@@ -115,4 +116,8 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0743-network-delay-time) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
