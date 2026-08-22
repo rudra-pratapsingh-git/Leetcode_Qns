@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0210-course-schedule-ii) |
+| [0721-accounts-merge](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -17,6 +18,7 @@
 | [0126-word-ladder-ii](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0127-word-ladder) |
 | [0210-course-schedule-ii](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0210-course-schedule-ii) |
+| [0721-accounts-merge](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -27,6 +29,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1631-path-with-minimum-effort) |
@@ -52,6 +55,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0073-set-matrix-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0628-maximum-product-of-three-numbers) |
+| [0721-accounts-merge](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0721-accounts-merge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1631-path-with-minimum-effort) |
@@ -61,6 +65,7 @@
 | [0073-set-matrix-zeroes](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0721-accounts-merge) |
 ## Matrix
 |  |
 | ------- |
@@ -72,6 +77,7 @@
 | ------- |
 | [0126-word-ladder-ii](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0721-accounts-merge) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Backtracking
 |  |
@@ -86,6 +92,7 @@
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0628-maximum-product-of-three-numbers) |
+| [0721-accounts-merge](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0721-accounts-merge) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
