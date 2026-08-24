@@ -10,6 +10,7 @@
 | [0785-is-graph-bipartite](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1631-path-with-minimum-effort) |
@@ -24,6 +25,7 @@
 | [0785-is-graph-bipartite](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0827-making-a-large-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1631-path-with-minimum-effort) |
@@ -32,6 +34,7 @@
 | ------- |
 | [0721-accounts-merge](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0785-is-graph-bipartite) |
+| [0827-making-a-large-island](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1631-path-with-minimum-effort) |
@@ -59,6 +62,7 @@
 | [0073-set-matrix-zeroes](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0073-set-matrix-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0721-accounts-merge) |
+| [0827-making-a-large-island](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0827-making-a-large-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1631-path-with-minimum-effort) |
@@ -74,6 +78,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0073-set-matrix-zeroes) |
+| [0827-making-a-large-island](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0827-making-a-large-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1631-path-with-minimum-effort) |
 ## String
