@@ -95,6 +95,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0007-reverse-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0628-maximum-product-of-three-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sorting
