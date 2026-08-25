@@ -60,6 +60,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0016-3sum-closest) |
 | [0073-set-matrix-zeroes](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0073-set-matrix-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0721-accounts-merge) |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0016-3sum-closest) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0721-accounts-merge) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -151,4 +153,5 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
