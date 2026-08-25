@@ -63,6 +63,7 @@
 | [0016-3sum-closest](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0018-4sum) |
 | [0073-set-matrix-zeroes](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0073-set-matrix-zeroes) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0827-making-a-large-island) |
@@ -121,6 +122,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1631-path-with-minimum-effort](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1631-path-with-minimum-effort) |
 ## Counting Sort
 |  |
@@ -157,4 +159,5 @@
 | [0015-3sum](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0018-4sum) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
