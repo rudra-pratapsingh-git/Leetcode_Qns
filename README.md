@@ -59,6 +59,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0015-3sum) |
 | [0073-set-matrix-zeroes](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0073-set-matrix-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0721-accounts-merge) |
@@ -101,6 +102,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0015-3sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0721-accounts-merge) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -145,4 +147,8 @@
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
