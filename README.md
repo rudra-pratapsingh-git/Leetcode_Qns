@@ -72,6 +72,7 @@
 | [0721-accounts-merge](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0827-making-a-large-island) |
+| [0881-boats-to-save-people](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0881-boats-to-save-people) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1631-path-with-minimum-effort) |
@@ -116,6 +117,7 @@
 | [0018-4sum](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0018-4sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0721-accounts-merge) |
+| [0881-boats-to-save-people](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
@@ -170,12 +172,18 @@
 | [0016-3sum-closest](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0018-4sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0881-boats-to-save-people](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0881-boats-to-save-people) |
 ## Minimax
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0778-swim-in-rising-water) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
