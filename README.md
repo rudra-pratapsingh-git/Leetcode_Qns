@@ -72,6 +72,7 @@
 | [0073-set-matrix-zeroes](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0778-swim-in-rising-water) |
@@ -86,6 +87,7 @@
 | [0073-set-matrix-zeroes](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0127-word-ladder) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0721-accounts-merge](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Matrix
@@ -119,6 +121,7 @@
 | [0015-3sum](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0018-4sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0721-accounts-merge) |
 | [0881-boats-to-save-people](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0881-boats-to-save-people) |
