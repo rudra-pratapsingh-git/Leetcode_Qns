@@ -74,6 +74,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0643-maximum-average-subarray-i) |
 | [0721-accounts-merge](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0827-making-a-large-island) |
@@ -207,4 +208,8 @@
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/2161-partition-array-according-to-given-pivot) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
