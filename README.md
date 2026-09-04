@@ -103,6 +103,7 @@
 | ------- |
 | [0126-word-ladder-ii](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0127-word-ladder) |
+| [0680-valid-palindrome-ii](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0721-accounts-merge) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Backtracking
@@ -181,11 +182,13 @@
 | [0027-remove-element](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0680-valid-palindrome-ii](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0011-container-with-most-water) |
+| [0680-valid-palindrome-ii](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0881-boats-to-save-people) |
 ## Minimax
 |  |
