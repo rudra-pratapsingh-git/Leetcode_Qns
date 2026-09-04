@@ -78,6 +78,7 @@
 | [0778-swim-in-rising-water](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0827-making-a-large-island) |
 | [0881-boats-to-save-people](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0977-squares-of-a-sorted-array) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1631-path-with-minimum-effort) |
@@ -126,6 +127,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0721-accounts-merge) |
 | [0881-boats-to-save-people](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
@@ -184,6 +186,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0680-valid-palindrome-ii](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
