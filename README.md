@@ -82,6 +82,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1631-path-with-minimum-effort) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Hash Table
 |  |
 | ------- |
@@ -187,6 +188,7 @@
 | [0680-valid-palindrome-ii](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0977-squares-of-a-sorted-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Greedy
 |  |
 | ------- |
@@ -201,4 +203,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0881-boats-to-save-people) |
+## Simulation
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
