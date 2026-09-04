@@ -71,6 +71,7 @@
 | [0027-remove-element](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0027-remove-element) |
 | [0073-set-matrix-zeroes](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0152-maximum-product-subarray](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0628-maximum-product-of-three-numbers) |
@@ -153,6 +154,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0152-maximum-product-subarray) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1976-number-of-ways-to-arrive-at-destination) |
