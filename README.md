@@ -75,6 +75,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0238-product-of-array-except-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0525-contiguous-array](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0643-maximum-average-subarray-i) |
 | [0721-accounts-merge](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0721-accounts-merge) |
@@ -96,6 +97,7 @@
 | [0127-word-ladder](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0525-contiguous-array](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0525-contiguous-array) |
 | [0721-accounts-merge](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Matrix
@@ -228,5 +230,6 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0525-contiguous-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
