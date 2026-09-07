@@ -93,6 +93,7 @@
 | [0073-set-matrix-zeroes](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0073-set-matrix-zeroes) |
 | [0126-word-ladder-ii](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0127-word-ladder) |
+| [0424-longest-repeating-character-replacement](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0721-accounts-merge](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -110,6 +111,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0126-word-ladder-ii](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0127-word-ladder) |
+| [0424-longest-repeating-character-replacement](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0721-accounts-merge) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -217,6 +219,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0643-maximum-average-subarray-i) |
 ## Prefix Sum
 |  |
