@@ -82,6 +82,7 @@
 | [0827-making-a-large-island](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0827-making-a-large-island) |
 | [0881-boats-to-save-people](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1004-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1631-path-with-minimum-effort) |
@@ -151,6 +152,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0778-swim-in-rising-water](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0778-swim-in-rising-water) |
+| [1004-max-consecutive-ones-iii](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1631-path-with-minimum-effort) |
 ## Counting Sort
 |  |
@@ -221,8 +223,10 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/rudra-pratapsingh-git/Leetcode_Qns/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
