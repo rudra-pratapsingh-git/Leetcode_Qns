@@ -10,13 +10,11 @@ class Solution {
         //dp[1] = Math.max(nums[0],nums[1]);
         for(int i = 1;i<n;i++){
             int notrob = dp[i-1];
-            if(i==1){
-                dp[i] = Math.max(notrob,nums[i]);
-                continue;
+            int rob = nums[i];
+            if(i>1){
+                rob += dp[i-2];
 
             }
-            int rob = dp[i-2] + nums[i];
-
             dp[i] = Math.max(notrob,rob);    
 
         }
